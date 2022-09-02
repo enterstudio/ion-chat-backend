@@ -1,6 +1,6 @@
 Django==1.7.4
 Markdown==2.5.2
-boto==2.36.0
+boto==2.39.0
 dj-database-url==0.3.0
 django-cors-headers==0.13
 django-custom-user==0.5
