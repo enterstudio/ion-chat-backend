@@ -18,3 +18,4 @@ sh==1.11
 waitress==0.8.9
 whitenoise==1.0.6
 wsgiref==0.1.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
